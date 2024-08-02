@@ -294,3 +294,9 @@ Relevant github issues and PRs:
 
 - <https://github.com/rstudio/rstudio/issues/11613>
 - <https://github.com/rstudio/rstudio/pull/14810>
+
+> [!NOTE]
+>
+> A feature that lets you goggle between the 2 language consoles
+> directly in the IDE has been implemented since
+> `Cranberry Hibiscus 2024.08.X`.
