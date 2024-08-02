@@ -58,7 +58,7 @@ in the command palette.
 The prompt may be a yellow bar (as shown in the image),
 or may list the current python version.
 
-![](img/python-select-interpretor.png)
+![](../img/python-select-interpretor.png)
 
 ### Do not install packages into system python
 
@@ -80,7 +80,7 @@ Every python project should have its own python environment
 
 This will create a `.venv` folder in `test` directory
 
-![](img/python-venv.png)
+![](../img/python-venv.png)
 
 ### Install Packages
 
