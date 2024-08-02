@@ -114,7 +114,7 @@ create new virtual environments and install packages in there.
 
 1.  In the prompt, select `Create Virtual Envrionment`.
 2.  Select `venv`,
-3.  select the python interpretor installed on your system. (e.g.,
+3.  select the python interpreter installed on your system. (e.g.,
     `3.12.3` in `/usr/bin/python3`).
 4.  You do not need to select any dependencies
 
@@ -133,7 +133,7 @@ import pip
 pip.main(["install", "pandas"])
 ```
 
-You can run the code with `SHIFT` + `ENTER`
+You can run the code with <kbd>Shift</kbd> + <kbd>Return</kbd>
 
 ### Import pandas
 
